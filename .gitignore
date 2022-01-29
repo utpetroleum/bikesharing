@@ -1,3 +1,13 @@
+# files to ignore
+.ipynb_checkpoints
+201908-citibike-tripdata.csv
+bikesharing Challenge.twb Files
+bikesharing Challenge.twb
+bikesharing Module.twbx
+Top Start_Ending Locations.twb
+~bikesharing Challenge__2936.twbr
+~bikesharing Module__11632.twbr
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
